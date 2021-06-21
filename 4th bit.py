@@ -10,8 +10,10 @@ while True:
         print(1)
         s+=str(1)
         break
-
-print('4th bit',s[3])
+if len(s)<4:
+    print(0)
+else:
+    print('4th bit',s[3])
 
 '''
 12
