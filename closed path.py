@@ -15,3 +15,13 @@ def cpsum(t):
 t=int(input())
 print(cpsum(t))
     
+'''
+630  # entered number
+2 #no of closed paths
+
+12344
+2
+
+64598
+5
+'''
